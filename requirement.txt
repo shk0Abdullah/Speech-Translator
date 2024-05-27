@@ -1,0 +1,21 @@
+# Speech Translator
+
+# Module for interacting with COM objects on Windows
+pywin32
+
+# Google Translate API wrapper for language detection and translation
+googletrans==4.0.0-rc1
+
+# Speech recognition module for recognizing spoken text input
+SpeechRecognition
+
+# Regular expressions module for pattern matching
+# (This is a built-in module and does not need to be installed separately)
+# re
+
+# Built-in sys module for interacting with the Python interpreter
+# (This is a built-in module and does not need to be installed separately)
+# sys
+
+# Module for text-to-speech conversion
+pyttsx3
